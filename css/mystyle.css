@@ -37,10 +37,10 @@ a:active {
 }
 
 .bg1 {
-    background-image: url('../images/Starry.png');
+    background-image: url('../images/Starry3.png');
     background-repeat: no-repeat;
-    background-position: center center;
-    background-size: auto 100%;
+    background-position: center top;
+    background-size: auto 150%;
 }
 
 .bg2 {
