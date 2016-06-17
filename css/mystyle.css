@@ -1,3 +1,6 @@
+.myblue{
+    color:#162534
+}
 html,
 body {
     height: 100%;
@@ -7,36 +10,23 @@ body {
 }
 
 
-/* unvisited link */
-
 a:link {
     color: #F4CF5E;
     text-decoration: underline;
 }
-
-
-/* visited link */
-
 a:visited {
     color: #304878;
     text-decoration: underline;
 }
-
-
-/* mouse over link */
-
 a:hover {
     color: #F0A818;
     text-decoration: none;
 }
-
-
-/* selected link */
-
 a:active {
     color: #F0A818;
     font-weight: bold;
 }
+
 
 #header {
     width: 100%;
@@ -167,6 +157,14 @@ ul li a i:hover {
 
 .fa-github {
     background: #4183c4;
+}
+
+.fa-github-alt {
+    color:162534
+}
+
+.fa-github-alt:hover {
+    color:#F0A818
 }
 
 .fa-linkedin {
