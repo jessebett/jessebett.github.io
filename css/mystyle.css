@@ -3,6 +3,31 @@ html, body {
   font-family: 'Roboto', sans-serif;
   color: #444;
 }
+
+/* unvisited link */
+a:link {
+    color: #F4CF5E;
+    text-decoration: underline;
+}
+
+/* visited link */
+a:visited {
+    color: #304878;
+    text-decoration: underline;
+}
+
+/* mouse over link */
+a:hover {
+    color: #F0A818;
+    text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    color: #F0A818;
+    font-weight: bold;
+}
+
 #header {
   width: 100%;
   height: 500px;
@@ -137,12 +162,12 @@ ul li a i:hover {
 .fa-envelope {
     background:#4285f4;   
 } 
-
+.fa-star {
+    color: #fff;
+    margin-top: 10px;
+}
 
 .fa-graduation-cap {
     color: #fff;
     margin-top: 10;
-
-    
-    
 }
