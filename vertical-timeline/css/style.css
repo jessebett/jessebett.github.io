@@ -107,6 +107,11 @@ header h1 {
   }
 }
 
+.cd-timeline-content i {
+    font-size: 100px;
+      
+  }
+
 .cd-timeline-block {
   position: relative;
   margin: 2em 0;
