@@ -7,16 +7,26 @@ body {
     font-family: 'Roboto', sans-serif;
     color: #444;
     background-color: #EAEAEA;
+    /*background-image: url(images/webbackground.svg);*/
 }
 
+html,body {
+    height: 100%;
+    background-image: url(../images/webbackground.svg);
+    /*background-size:100% 100%;*/
+    /*-o-background-size: 100% 100%;*/
+    -webkit-background-size: 100% 100%;
+    background-size: auto;
+    background-position: center center;
+}
 
 a:link {
-    color: #F4CF5E;
-    text-decoration: underline;
+    color: #162534;
+    /*text-decoration: underline;*/
 }
 a:visited {
-    color: #304878;
-    text-decoration: underline;
+    color: #162534;
+    /*text-decoration: underline;*/
 }
 a:hover {
     color: #F0A818;
@@ -87,6 +97,118 @@ a:active {
     margin-left: 20px;
 }
 
+
+ul {
+    overflow: auto;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+ul li {
+    list-style-type: none;
+    float: left;
+}
+
+ul li a i {
+    background: #205D7A;
+    color: #fff;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    font-size: 25px;
+    text-align: center;
+    margin-right: 10px;
+    padding-top: 15%;
+    transition: all 0.2s ease-in-out;
+}
+
+ul li a i:hover {
+    opacity: .7;
+}
+
+.cd-timeline-content p{
+  /*font-size: 10px;*/
+  line-height: 18px;
+}
+
+.fa-github {
+    background: #4183c4;
+}
+
+/*.fa-github-alt {
+    color:#162534;
+}
+
+.fa-github-alt:hover {
+    color:#F0A818
+}*/
+
+.fa-linkedin {
+    background: #007bb6
+}
+
+.fa-twitter {
+    background: #00aced
+}
+
+.fa-envelope {
+    background: #4285f4;
+}
+
+.fa-star {
+    color: #fff;
+    margin-top: 10px;
+}
+
+.fa-book {
+    color: #fff;
+    margin-top: 10px;
+}
+
+.fa-graduation-cap {
+    color: #fff;
+    margin-top: 10;
+}
+
+.iconlist{
+  /*overflow: auto;*/
+  text-align: center;
+    /*margin-left: -10%;*/
+
+}
+
+.iconlist i{
+  /*overflow: auto;*/
+  /*margin-left: -50%*/
+
+  font-size: 150px;
+
+}
+
+.iconlist a p{
+  /*overflow: auto;*/
+  margin-top: 0px;
+  text-align: center;
+
+}
+
+
+
+.iconlist > div {
+  text-align: center;
+  /*width: 20%;*/
+  /*padding-left: 50px;*/
+  /*padding-right: 50px;*/
+  /*float: left;*/
+  margin-left: 5%;
+  margin-right: 5%;
+  /*margin-left: 5px;*/
+  display: inline-block;
+}
+
+
+
+
 @media (max-width: 850px) {
     #headersection {
         text-align: center;
@@ -119,77 +241,20 @@ a:active {
         width: 40px;
         height: 40px;
         border-radius: 20px;
-        font-size: 25px;
+        font-size: 20px;
         text-align: center;
         margin-right: 10px;
         padding-top: 15%;
         transition: all 0.2s ease-in-out;
-    }
 }
 
-ul {
-    overflow: auto;
-    margin-top: 10px;
-    margin-left: 30px;
-}
+        .iconlist i{
+          /*overflow: auto;*/
+          /*margin-left: -50%*/
 
-ul li {
-    list-style-type: none;
-    float: left;
-}
+          font-size: 50px;
 
-ul li a i {
-    background: #205D7A;
-    color: #fff;
-    width: 40px;
-    height: 40px;
-    border-radius: 20px;
-    font-size: 25px;
-    text-align: center;
-    margin-right: 10px;
-    padding-top: 15%;
-    transition: all 0.2s ease-in-out;
-}
+        }
 
-ul li a i:hover {
-    opacity: .7;
-}
 
-.fa-github {
-    background: #4183c4;
-}
-
-.fa-github-alt {
-    color:162534
-}
-
-.fa-github-alt:hover {
-    color:#F0A818
-}
-
-.fa-linkedin {
-    background: #007bb6
-}
-
-.fa-twitter {
-    background: #00aced
-}
-
-.fa-envelope {
-    background: #4285f4;
-}
-
-.fa-star {
-    color: #fff;
-    margin-top: 10px;
-}
-
-.fa-book {
-    color: #fff;
-    margin-top: 10px;
-}
-
-.fa-graduation-cap {
-    color: #fff;
-    margin-top: 10;
 }
