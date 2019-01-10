@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Jesse Bettencourt</title>
+    <link>https://jessebett.github.io/project/</link>
+    <description>Recent content in Projects on Jesse Bettencourt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 27 Apr 2017 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://jessebett.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Torus Knot Fibration</title>
+      <link>https://jessebett.github.io/project/torus-knot/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://jessebett.github.io/project/torus-knot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Penrose Aperiodic Tiling of the Plane and Graphical Geodesics</title>
+      <link>https://jessebett.github.io/project/penrose-thesis/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 -0400</pubDate>
+      
+      <guid>https://jessebett.github.io/project/penrose-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radial Basis Functions</title>
+      <link>https://jessebett.github.io/project/rbf-usra/</link>
+      <pubDate>Tue, 27 May 2014 00:00:00 -0400</pubDate>
+      
+      <guid>https://jessebett.github.io/project/rbf-usra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ancient Egyptian Astronomy Database</title>
+      <link>https://jessebett.github.io/project/egypt/</link>
+      <pubDate>Mon, 27 May 2013 00:00:00 -0400</pubDate>
+      
+      <guid>https://jessebett.github.io/project/egypt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
