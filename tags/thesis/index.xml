@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>thesis on Jesse Bettencourt</title>
@@ -18,7 +18,7 @@
       <pubDate>Thu, 27 Apr 2017 00:00:00 -0400</pubDate>
       
       <guid>https://jessebett.github.io/project/torus-knot/</guid>
-      <description></description>
+      <description>Master&amp;rsquo;s summer project.</description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       <pubDate>Mon, 27 Apr 2015 00:00:00 -0400</pubDate>
       
       <guid>https://jessebett.github.io/project/penrose-thesis/</guid>
-      <description></description>
+      <description>Undergraduate thesis.</description>
     </item>
     
   </channel>

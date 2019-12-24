@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>other on Jesse Bettencourt</title>
@@ -18,7 +18,7 @@
       <pubDate>Tue, 27 May 2014 00:00:00 -0400</pubDate>
       
       <guid>https://jessebett.github.io/project/rbf-usra/</guid>
-      <description></description>
+      <description>NSERC funded summer undergraduate research project on Radial Basis Functions</description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       <pubDate>Mon, 27 May 2013 00:00:00 -0400</pubDate>
       
       <guid>https://jessebett.github.io/project/egypt/</guid>
-      <description></description>
+      <description>Repository of information about astronomical documents from the pharaonic period of ancient Egypt.</description>
     </item>
     
   </channel>

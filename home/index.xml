@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Jesse Bettencourt</title>
@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jan 2019 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://jessebett.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -36,7 +36,7 @@
       <pubDate>Sun, 06 Jan 2019 00:00:00 -0500</pubDate>
       
       <guid>https://jessebett.github.io/home/about/</guid>
-      <description>Biography I am a graduate student in Machine Learning at the University of Toronto and the Vector Institute. I am currently pursuing follow-up research to my work on Neural Ordinary Differential Equations, and am generally interested in approximate inference for latent variable models. My supervisors are Drs. David Duvenaud and Roger Grosse. I am the instructor for CSC412/2506: Probabilistic Learning and Reasoning.</description>
+      <description>Biography I am a graduate student in Machine Learning at the University of Toronto and the Vector Institute. I am currently pursuing follow-up research to my work on Neural Ordinary Differential Equations, and am generally interested in approximate inference for latent variable models. I have recently completed an M.Sc. supervised by Drs. David Duvenaud and Roger Grosse, and am continuing as a Ph.D. student under David Duvenaud. In Winters 2018 and 2019 I was the instructor for CSC412/2506: Probabilistic Learning and Reasoning.</description>
     </item>
     
     <item>
@@ -108,7 +108,8 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
       
       <guid>https://jessebett.github.io/home/teaching/</guid>
-      <description>In the past I have taught the following courses at University of Toronto:
+      <description>I am currently teaching the following course at University of Toronto:
+ STA414: Statistical Methods for Machine Learning II (Winter 2020)  In the past I have taught the following courses at University of Toronto:
  CSC412/2506: Probabilistic Learning and Reasoning (Winter 2019) CSC412/2506: Probabilistic Learning and Reasoning (Winter 2018)  In the past I have been a teaching assistant for the following courses:
  CSC411/2515: Introduction to Machine Learning (Fall 2018) CSC411/2515: Introduction to Machine Learning (Fall 2017) MAT136: Single Variable Calculus I for Science (Winter 2016) MAT186: Single Variable Calculus I for Engineering (Fall 2016) MAT235: Mutlivariable and Vector Calculus II for Science (Summer 2016) MAT235: Mutlivariable and Vector Calculus II for Science (Year 2016) ISCI2A18: Mutlivariable and Vector Calculus II for Integrated Science (Year 2014)  </description>
     </item>
