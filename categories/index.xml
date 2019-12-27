@@ -1,15 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Jesse Bettencourt</title>
+    <title>Categories | Jesse Bettencourt</title>
     <link>https://jessebett.github.io/categories/</link>
-    <description>Recent content in Categories on Jesse Bettencourt</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    
-	<atom:link href="https://jessebett.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://jessebett.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://jessebett.github.io/img/icon-192.png</url>
+      <title>Categories</title>
+      <link>https://jessebett.github.io/categories/</link>
+    </image>
     
   </channel>
 </rss>

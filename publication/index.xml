@@ -1,22 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Jesse Bettencourt</title>
+    <title>Publications | Jesse Bettencourt</title>
     <link>https://jessebett.github.io/publication/</link>
-    <description>Recent content in Publications on Jesse Bettencourt</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="https://jessebett.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://jessebett.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Jun 2018 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://jessebett.github.io/img/icon-192.png</url>
+      <title>Publications</title>
+      <link>https://jessebett.github.io/publication/</link>
+    </image>
     
     <item>
       <title>FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models</title>
       <link>https://jessebett.github.io/publication/ffjord/</link>
       <pubDate>Mon, 18 Jun 2018 00:00:00 -0400</pubDate>
-      
       <guid>https://jessebett.github.io/publication/ffjord/</guid>
       <description></description>
     </item>
@@ -25,9 +24,9 @@
       <title>Neural Ordinary Differential Equations</title>
       <link>https://jessebett.github.io/publication/neural-odes/</link>
       <pubDate>Mon, 18 Jun 2018 00:00:00 -0400</pubDate>
-      
       <guid>https://jessebett.github.io/publication/neural-odes/</guid>
-      <description>Best Paper at NeurIPS 2018</description>
+      <description>&lt;p&gt;Best Paper at NeurIPS 2018&lt;/p&gt;
+</description>
     </item>
     
   </channel>

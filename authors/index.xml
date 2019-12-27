@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Jesse Bettencourt</title>
+    <link>https://jessebett.github.io/authors/</link>
+      <atom:link href="https://jessebett.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Jun 2018 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://jessebett.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://jessebett.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>**Jesse Bettencourt**</title>
+      <link>https://jessebett.github.io/authors/jesse-bettencourt/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 -0400</pubDate>
+      <guid>https://jessebett.github.io/authors/jesse-bettencourt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>**Jesse Bettencourt\***</title>
+      <link>https://jessebett.github.io/authors/jesse-bettencourt%5C/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 -0400</pubDate>
+      <guid>https://jessebett.github.io/authors/jesse-bettencourt%5C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Duvenaud</title>
+      <link>https://jessebett.github.io/authors/david-duvenaud/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 -0400</pubDate>
+      <guid>https://jessebett.github.io/authors/david-duvenaud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ilya Sutskever</title>
+      <link>https://jessebett.github.io/authors/ilya-sutskever/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 -0400</pubDate>
+      <guid>https://jessebett.github.io/authors/ilya-sutskever/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ricky T. Q. Chen\*</title>
+      <link>https://jessebett.github.io/authors/ricky-t.-q.-chen%5C/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 -0400</pubDate>
+      <guid>https://jessebett.github.io/authors/ricky-t.-q.-chen%5C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Will Grathwohl\*</title>
+      <link>https://jessebett.github.io/authors/will-grathwohl%5C/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 -0400</pubDate>
+      <guid>https://jessebett.github.io/authors/will-grathwohl%5C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yulia Rubanova\*</title>
+      <link>https://jessebett.github.io/authors/yulia-rubanova%5C/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 -0400</pubDate>
+      <guid>https://jessebett.github.io/authors/yulia-rubanova%5C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jessebett.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jessebett.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am a graduate student in &lt;a href=&#34;http://learning.cs.toronto.edu/&#34;&gt;Machine Learning&lt;/a&gt; at the University of Toronto and the &lt;a href=&#34;https://vectorinstitute.ai/&#34;&gt;Vector Institute&lt;/a&gt;.
+I am currently pursuing follow-up research to my work on Neural Ordinary Differential Equations, and am generally interested in approximate inference for latent variable models.
+I have recently completed an M.Sc. supervised by Drs. &lt;a href=&#34;http://www.cs.toronto.edu/~duvenaud/&#34;&gt;David Duvenaud&lt;/a&gt; and &lt;a href=&#34;http://www.cs.toronto.edu/~rgrosse/&#34;&gt;Roger Grosse&lt;/a&gt;, and am continuing as a Ph.D. student under David Duvenaud.
+In Winters 2018 and 2019 I was the instructor for &lt;a href=&#34;http://www.cs.toronto.edu/~jessebett/CSC412/&#34;&gt;CSC412/2506: Probabilistic Learning and Reasoning&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Winter 2020 I will be co-instructing, with David Duvenaud, the course &lt;a href=&#34;https://probmlcourse.github.io/sta414/&#34;&gt;STA414: Statistical Methods in Machine Learning II&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

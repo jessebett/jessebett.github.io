@@ -1,25 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Jesse Bettencourt</title>
+    <title>Posts | Jesse Bettencourt</title>
     <link>https://jessebett.github.io/post/</link>
-    <description>Recent content in Posts on Jesse Bettencourt</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="https://jessebett.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Academic: the website designer for Hugo</title>
-      <link>https://jessebett.github.io/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>https://jessebett.github.io/post/getting-started/</guid>
-      <description>Create a beautifully simple website or blog in under 10 minutes.</description>
-    </item>
+      <atom:link href="https://jessebett.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://jessebett.github.io/img/icon-192.png</url>
+      <title>Posts</title>
+      <link>https://jessebett.github.io/post/</link>
+    </image>
     
   </channel>
 </rss>

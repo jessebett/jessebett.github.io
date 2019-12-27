@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ilya Sutskever | Jesse Bettencourt</title>
+    <link>https://jessebett.github.io/authors/ilya-sutskever/</link>
+      <atom:link href="https://jessebett.github.io/authors/ilya-sutskever/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ilya Sutskever</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Jun 2018 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://jessebett.github.io/img/icon-192.png</url>
+      <title>Ilya Sutskever</title>
+      <link>https://jessebett.github.io/authors/ilya-sutskever/</link>
+    </image>
+    
+    <item>
+      <title>FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models</title>
+      <link>https://jessebett.github.io/publication/ffjord/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 -0400</pubDate>
+      <guid>https://jessebett.github.io/publication/ffjord/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

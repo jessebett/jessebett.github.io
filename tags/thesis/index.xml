@@ -1,33 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>thesis on Jesse Bettencourt</title>
+    <title>thesis | Jesse Bettencourt</title>
     <link>https://jessebett.github.io/tags/thesis/</link>
-    <description>Recent content in thesis on Jesse Bettencourt</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 27 Apr 2017 00:00:00 -0400</lastBuildDate>
-    
-	<atom:link href="https://jessebett.github.io/tags/thesis/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://jessebett.github.io/tags/thesis/index.xml" rel="self" type="application/rss+xml" />
+    <description>thesis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 27 Apr 2017 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://jessebett.github.io/img/icon-192.png</url>
+      <title>thesis</title>
+      <link>https://jessebett.github.io/tags/thesis/</link>
+    </image>
     
     <item>
       <title>Torus Knot Fibration</title>
       <link>https://jessebett.github.io/project/torus-knot/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 -0400</pubDate>
-      
       <guid>https://jessebett.github.io/project/torus-knot/</guid>
-      <description>Master&amp;rsquo;s summer project.</description>
+      <description></description>
     </item>
     
     <item>
       <title>Penrose Aperiodic Tiling of the Plane and Graphical Geodesics</title>
       <link>https://jessebett.github.io/project/penrose-thesis/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 -0400</pubDate>
-      
       <guid>https://jessebett.github.io/project/penrose-thesis/</guid>
-      <description>Undergraduate thesis.</description>
+      <description></description>
     </item>
     
   </channel>

@@ -1,79 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jesse Bettencourt on Jesse Bettencourt</title>
+    <title>Jesse Bettencourt</title>
     <link>https://jessebett.github.io/</link>
-    <description>Recent content in Jesse Bettencourt on Jesse Bettencourt</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 06 Jan 2019 00:00:00 -0500</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+      <atom:link href="https://jessebett.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jesse Bettencourt</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Jun 2018 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://jessebett.github.io/img/icon-192.png</url>
+      <title>Jesse Bettencourt</title>
+      <link>https://jessebett.github.io/</link>
+    </image>
     
     <item>
-      <title>Publications</title>
-      <link>https://jessebett.github.io/publication/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
-      
-      <guid>https://jessebett.github.io/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Overview</title>
-      <link>https://jessebett.github.io/tutorial/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://jessebett.github.io/tutorial/</guid>
-      <description>&lt;p&gt;This feature can be used for publishing content such as:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Project or software documentation&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Online courses&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tutorials&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The parent folder may be renamed, for example, to &lt;code&gt;docs&lt;/code&gt; for project documentation or &lt;code&gt;course&lt;/code&gt; for creating an online course.&lt;/p&gt;
-
-&lt;p&gt;To disable this feature, either delete the parent folder, or set &lt;code&gt;draft = true&lt;/code&gt; in the front matter of all its pages.&lt;/p&gt;
-
-&lt;p&gt;After renaming or deleting the parent folder, you may wish to update any &lt;code&gt;[[menu.main]]&lt;/code&gt; menu links to it in the &lt;code&gt;config.toml&lt;/code&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://jessebett.github.io/project/</link>
+      <title>Torus Knot Fibration</title>
+      <link>https://jessebett.github.io/project/torus-knot/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 -0400</pubDate>
-      
-      <guid>https://jessebett.github.io/project/</guid>
+      <guid>https://jessebett.github.io/project/torus-knot/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>https://jessebett.github.io/post/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://jessebett.github.io/post/</guid>
+      <title>Penrose Aperiodic Tiling of the Plane and Graphical Geodesics</title>
+      <link>https://jessebett.github.io/project/penrose-thesis/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 -0400</pubDate>
+      <guid>https://jessebett.github.io/project/penrose-thesis/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://jessebett.github.io/talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://jessebett.github.io/talk/</guid>
+      <title>Radial Basis Functions</title>
+      <link>https://jessebett.github.io/project/rbf-usra/</link>
+      <pubDate>Tue, 27 May 2014 00:00:00 -0400</pubDate>
+      <guid>https://jessebett.github.io/project/rbf-usra/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Slides</title>
-      <link>https://jessebett.github.io/slides/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jessebett.github.io/slides/</guid>
+      <title>Ancient Egyptian Astronomy Database</title>
+      <link>https://jessebett.github.io/project/egypt/</link>
+      <pubDate>Mon, 27 May 2013 00:00:00 -0400</pubDate>
+      <guid>https://jessebett.github.io/project/egypt/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models</title>
+      <link>https://jessebett.github.io/publication/ffjord/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 -0400</pubDate>
+      <guid>https://jessebett.github.io/publication/ffjord/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Ordinary Differential Equations</title>
+      <link>https://jessebett.github.io/publication/neural-odes/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 -0400</pubDate>
+      <guid>https://jessebett.github.io/publication/neural-odes/</guid>
+      <description>&lt;p&gt;Best Paper at NeurIPS 2018&lt;/p&gt;
+</description>
     </item>
     
   </channel>
