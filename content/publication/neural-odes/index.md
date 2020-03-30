@@ -47,7 +47,8 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/1806.07366"
+permalink ="https://arxiv.org/abs/1806.07366" 
+url_pdf = "https://arxiv.org/pdf/1806.07366"
 url_preprint = ""
 url_code = "https://github.com/rtqichen/torchdiffeq/"
 url_dataset = ""
